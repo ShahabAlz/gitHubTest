@@ -1,0 +1,16 @@
+Topics and Syllabus: the same is also downloaded in pdf
+https://learningnetwork.cisco.com/s/devnet-associate-exam-topics
+
+
+
+https://journey2theccie.wordpress.com/2020/02/28/devnet-associate-1-1-compare-data-formats-xml-json-yaml/
+
+
+
+Clone a Git repository into a specific folder
+https://www.techiedelight.com/clone-a-git-repository-into-specific-folder/
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://www.javatpoint.com/git-pull
+
+
+Shahab Added this line on first attempt
